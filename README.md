@@ -11,4 +11,4 @@
 <body bgcolor="gray">
 
 <h3> NOMBRE:  <h4> HUGO ERNESTO CUELLAR CARREÓN
-<h3> CREDITO: 
+<h3> VALIDO
